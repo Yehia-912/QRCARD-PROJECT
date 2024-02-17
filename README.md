@@ -1,1 +1,1 @@
-Project preview: https://yehia-912.github.io/qr-code/
+Project preview: https://yehia-912.github.io/QRCARD-PROJECT/
